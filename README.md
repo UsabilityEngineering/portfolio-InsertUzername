@@ -8,7 +8,7 @@ Hello, I am Nhiakou Xiong. I go by my middle name, Alex. I am a computer science
 
 ## UX Team Project
 
-Coming soon.
+FoodScan
 
 ## UX Journal
 
