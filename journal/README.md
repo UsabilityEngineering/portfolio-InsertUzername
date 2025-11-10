@@ -2,7 +2,7 @@
 
 Due to COVID and online classes, I started to use OBS to make my camera’s output presentable. The common features for OBS are the customizable attachments that can be added to record a video and a virtual camera that acts as a selectable camera option.
 
-After opening up the application, the OBS interface left me confused at first. My experience with recording/studio applications was phone applications that left me with the ***mental model*** that the features would be at the top. For OBS, the features lie at the bottom of the page.
+After opening up the application, the OBS interface left me confused at first. My experience with recording/studio applications was phone applications that left me with the **mental model** that the features would be at the top. For OBS, the features lie at the bottom of the page.
 
 <img width="1385" height="941" alt="featuresatbottom" src="https://github.com/user-attachments/assets/bd118ffc-10ef-4797-b953-65c3e5bd3816" />
 
@@ -15,7 +15,7 @@ Since there were no other indications of what to do, I clicked on the + button t
 <img width="1347" height="936" alt="sourcesopentab" src="https://github.com/user-attachments/assets/f7be6c4e-d04c-40e7-8ae8-bbecae7b4faf" />
 
 
-The sources tab showed all of the processing features that could be added. After seeing all of the options, the application became more **learnable** as the titles hold onto specific features instead of putting every process into one tab. I clicked out of the pop-up and looked at the layout of OBS again. The layout of the features demonstrates a ***match between the system and the real world*** through ***conventions***, such as ***natural mapping*** of a studio or recording session and a flow chart layout. 
+The sources tab showed all of the processing features that could be added. After seeing all of the options, the application became more **learnable** as the titles hold onto specific features instead of putting every process into one tab. I clicked out of the pop-up and looked at the layout of OBS again. The layout of the features demonstrates a **match between the system and the real world** through **conventions**, such as **natural mapping** of a studio or recording session and a flow chart layout. 
 
 I clicked on the + button of the sources tab again to add my camera. I kept clicking okay until I saw a change within the application.
 
