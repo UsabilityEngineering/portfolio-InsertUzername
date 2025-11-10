@@ -12,4 +12,4 @@ FoodScan
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Recording with OBS](journal/)
