@@ -12,4 +12,4 @@ FoodScan
 
 ## UX Journal
 
-[Recording with OBS](journal/)
+[Virtual Camera with OBS](journal/)
