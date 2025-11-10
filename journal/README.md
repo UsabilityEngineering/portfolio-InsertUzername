@@ -15,7 +15,7 @@ Since there were no other indications of what to do, I clicked on the + button t
 <img width="1347" height="936" alt="sourcesopentab" src="https://github.com/user-attachments/assets/f7be6c4e-d04c-40e7-8ae8-bbecae7b4faf" />
 
 
-The sources tab showed all of the processing features that could be added. After seeing all of the options, the application became more ***learnable*** as the titles hold onto specific features instead of putting every process into one tab. I clicked out of the pop-up and looked at the layout of OBS again. The layout of the features demonstrates a ***match between the system and the real world*** through ***conventions***, such as ***natural mapping*** of a studio or recording session and a flow chart layout. 
+The sources tab showed all of the processing features that could be added. After seeing all of the options, the application became more **learnable** as the titles hold onto specific features instead of putting every process into one tab. I clicked out of the pop-up and looked at the layout of OBS again. The layout of the features demonstrates a ***match between the system and the real world*** through ***conventions***, such as ***natural mapping*** of a studio or recording session and a flow chart layout. 
 
 I clicked on the + button of the sources tab again to add my camera. I kept clicking okay until I saw a change within the application.
 
