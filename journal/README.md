@@ -1,3 +1,3 @@
-# Journal Title
+# Recording with OBS
 
 Journal narrative
