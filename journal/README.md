@@ -1,3 +1,3 @@
-# Recording with OBS
+# Virtual Camera with OBS
 
 Journal narrative
